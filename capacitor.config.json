@@ -1,0 +1,6 @@
+{
+  "appId": "org.rawset.app",
+  "appName": "RAWSET",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
