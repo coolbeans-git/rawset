@@ -23,6 +23,32 @@ Independent clone of the *feature set* of popular gym loggers. No third-party co
 - Weekly schedule: assign a routine to each weekday; "today" card on the log tab
 - Templates: Bro Split (6d), Push/Pull/Legs (6d), Arnold Split (6d), Upper/Lower (4d)
 
+## Installation (Android)
+
+1. Open the [latest RAWSET release](../../releases/latest).
+2. Download `rawset.apk` from the release assets.
+3. Open the downloaded APK on your Android device.
+4. If prompted, allow your browser or file manager to install unknown apps.
+5. Follow the installation prompts and launch RAWSET.
+
+## Data and Privacy
+
+- Workout data is stored locally on your device.
+- No account is required.
+- RAWSET does not intentionally track users.
+- Export a JSON backup regularly, especially before uninstalling the app or changing devices.
+
+## Reporting Bugs and Contributing
+
+Found a bug or have an idea for an improvement? Open an issue in this repository. Include your Android version, device model, steps to reproduce the issue, and screenshots or error messages if available.
+
+Contributions, bug reports, and suggestions are welcome.
+
+## Release Status
+
+**Current version:** v0.1.0 — Initial release.
+
+RAWSET has been tested on a personal Android device. Compatibility with other devices and Android versions may vary.
 ## Build the APK
 **Easiest:** push to GitHub; Actions builds `rawset.apk` (Actions tab → latest run → Artifacts).
 **Locally:** Node 20, JDK 17, Android SDK.
