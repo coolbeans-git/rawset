@@ -1,6 +1,6 @@
 {
   "name": "rawset",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "RAWSET - open-source neobrutalist workout logger for Android",
   "license": "MIT",
   "scripts": {
@@ -12,7 +12,8 @@
     "@capacitor/core": "^6.1.2",
     "@capacitor/local-notifications": "^6.1.0",
     "@capacitor/filesystem": "^6.0.1",
-    "@capacitor/share": "^6.0.2"
+    "@capacitor/share": "^6.0.2",
+    "@capacitor/app": "^6.0.1"
   },
   "devDependencies": {
     "@capacitor/cli": "^6.1.2"
